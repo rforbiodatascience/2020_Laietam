@@ -1,0 +1,22 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+author: "Laia"
+date: "9/3/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This is a trial of how to upload, pull/push... documents from GitHub
+
+Commands:
+
+git add filename
+git comit -m "Comment what you did"
+git pull
+git push
+--> It will ask your credentials
